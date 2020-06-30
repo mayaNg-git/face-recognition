@@ -1,5 +1,5 @@
 # FaceRecognition - v1
-
+A web app uses Clarifai API to detect face in an image provided by user through URL of the image (based on SmartBrain tutorials)
 
 1. Clone this repo
 2. Run `npm install`
