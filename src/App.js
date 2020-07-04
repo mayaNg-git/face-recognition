@@ -6,9 +6,9 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import BackgroundVideo from './background/sky.mp4';
 import './App.css';
 
-//You must add your own API key here from Clarifai.
+//add your own API key here 
 const app = new Clarifai.App({
- apiKey: '988e635e11444ced8496bfd3f7ad53eb'
+ apiKey: 'api-key'
 });
 
 
